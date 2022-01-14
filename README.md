@@ -8,3 +8,6 @@ The Official Typicality Script Hub.
 ### FE Creeper:
 * Hats: no hats
 * Controls: Click fling
+### FE OofHead:
+* Hats: https://www.roblox.com/catalog/6380274618/Big-Block-Noob-Head#Typicality
+* Controls: P retract head, Z extract head, Click fling
