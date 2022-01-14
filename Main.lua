@@ -1,1 +1,1 @@
--- Typicality coming soon and will be paid
+-- Typicality coming soon and will be free but will have premium edition
