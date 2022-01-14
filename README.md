@@ -1,2 +1,2 @@
 # Typicality
-The Official Typicality Administration Bar.
+The Official Typicality Script Hub.
