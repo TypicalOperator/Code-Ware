@@ -15,3 +15,6 @@ The Official Typicality Script Hub.
 ### FE Annoy
 * Hats: https://www.roblox.com/catalog/6380274618/Big-Block-Noob-Head#Typicality
 * Controls: Z move head
+### FE Knifee
+* Hats: https://www.roblox.com/catalog/4684948729/Kawaii-Knife#Typicality
+* Controls: P get hats ready, F kill
