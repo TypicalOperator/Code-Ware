@@ -17,4 +17,4 @@ The Official Typicality Script Hub.
 * Controls: Z move head
 ### FE Knife
 * Hats: https://www.roblox.com/catalog/4684948729/Kawaii-Knife#Typicality
-* Controls: P get hats ready, F kill
+* Controls: Z spin, Click kill
