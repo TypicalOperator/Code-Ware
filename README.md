@@ -1,5 +1,5 @@
-# Typicality
-The Official Typicality Script Hub.
+# Code-Ware
+The Official Code-Ware Script Hub.
 
 ## Regular Scripts:
 ### FE Sniper:
